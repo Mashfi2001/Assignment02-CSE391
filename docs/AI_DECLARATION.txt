@@ -1,0 +1,56 @@
+============================================================
+           AI USAGE DECLARATION
+============================================================
+
+Name: Mashfi Mahin Sarder
+Student ID:22299144
+Assignment:02
+Date:02-11-2026
+
+------------------------------------------------------------
+1. AI TOOLS USED (check all that apply)
+------------------------------------------------------------
+[ ] None
+[ ] ChatGPT
+[ ] GitHub Copilot
+[ ] Google Gemini
+[*] Claude
+[ ] Cursor
+[ ] Other: ________________
+
+------------------------------------------------------------
+2. PURPOSE OF AI USE (check all that apply)
+------------------------------------------------------------
+[*] Learning/understanding concepts
+[*] Debugging my code
+[ ] Generating code snippets
+[ ] Writing text content
+[*] Design/styling ideas
+[ ] Image generation
+[ ] Other:
+
+------------------------------------------------------------
+3. DESCRIPTION OF AI USE
+------------------------------------------------------------
+I used the AI to understand concepts including setInterval and clearInterval, DOM element creation, array methods, closures, localStorage and JSON. It also broke the stopwatch and to-do list into smaller steps for me to complete.
+
+it helped me identify errors and explained how to fix them. For Task 1, it gave feedback on colour contrast and layout.
+------------------------------------------------------------
+4. AI-ASSISTED SECTIONS
+------------------------------------------------------------
+List specific files/sections where AI helped significantly:
+index.js:-tick(),showtime(),showtask()
+index.html:- task-box
+style.css:-.task-box
+------------------------------------------------------------
+5. DECLARATION
+------------------------------------------------------------
+I declare that:
+- This disclosure is complete and accurate
+- I understand all code in my submission
+- I can explain and modify my work if asked
+- I take full responsibility for my submission
+
+Signature: Mashfi
+Date: 26-10-2026
+
